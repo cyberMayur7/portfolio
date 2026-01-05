@@ -36,7 +36,7 @@ export default function App() {
 
               <div className="buttons">
                 <a
-                  href="/resume.pdf"
+                  href="/Mayur_Girase_Resume.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="btn primary"
