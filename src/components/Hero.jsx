@@ -13,7 +13,7 @@ export default function Hero() {
         </p>
 
         <div className="buttons">
-          <a href="/resume.pdf" target="_blank" className="btn primary">
+          <a href="/Mayur_Girase_Resume.pdf" target="_blank" className="btn primary">
             Resume
           </a>
           <a href="#contact" className="btn outline">
